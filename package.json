@@ -2,7 +2,7 @@
   "name": "my-app-react",
   "version": "0.1.0",
   "private": true,
-  "engines" {
+  "engines": {
   "node": "12.14.0",
   "npm": "6.13.4"
 },
